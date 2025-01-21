@@ -2,8 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/llt",
-  assetPrefix: "/llt/",
+  basePath: "/love-language-quiz",
+  assetPrefix: "/love-language-quiz/",
   /* config options here */
 };
 
